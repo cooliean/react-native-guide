@@ -21,8 +21,11 @@ https://github.com/jondot/awesome-react-native
 
 ### React Native
 
+* **构建 Facebook F8 2016 App / React Native 开发指南**
+http://f8-app.liaohuqiu.net/
+
 * **React-Native入门指南**
-https://github.com/vczero/react-native-lession
+https://github.com/vczero/react-native-lesson
 
 * **React-Native视频教程(部分免费)**
 https://egghead.io/technologies/react
@@ -46,13 +49,13 @@ http://zhuanlan.zhihu.com/FrontendMagazine/19996445
 http://blog.cnbang.net/tech/2698/
 
 * React Native布局篇
-http://segmentfault.com/a/1190000002658374
+https://segmentfault.com/a/1190000002658374
 
 * React Native 基础练习指北（一）
-http://segmentfault.com/a/1190000002645929
+https://segmentfault.com/a/1190000002645929
 
 * React Native 基础练习指北（二）
-http://segmentfault.com/a/1190000002647733
+https://segmentfault.com/a/1190000002647733
 
 * Diary of Building an iOS App with React Native
 http://herman.asia/building-a-flashcard-app-with-react-native
@@ -61,31 +64,37 @@ http://herman.asia/building-a-flashcard-app-with-react-native
 http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app
 
 * React Native For Beginners – The Next Big Thing?
-http://devdactic.com/react-native-for-beginners/
+https://devdactic.com/react-native-for-beginners/
 
 * How To Implement A Tab Bar With React Native
-http://devdactic.com/react-native-tab-bar/
+https://devdactic.com/react-native-tab-bar/
 
 * tcomb-form-native使用视频教程(需翻墙)
-http://react.rocks/example/tcomb-form-native
+https://react.rocks/example/tcomb-form-native
 
 * React Native分享记录
-http://segmentfault.com/a/1190000002678782
+https://segmentfault.com/a/1190000002678782
 
 * React Native构建本地视图组件
-http://www.dobest.me/post/react-native-build-native-componenets/
+https://www.dobest.me/article/11
 
 * react-native-android-lession(安卓系列教程)
 https://github.com/yipengmu/react-native-android-lession
 
 * React Native模块桥接详解
-http://www.dobest.me/post/react-native-bridge/
+https://www.dobest.me/article/14
 
 * React Native: 配置和起步
 http://www.liaohuqiu.net/cn/posts/react-native-1/
 
 * React Native: Android 的打包
 http://www.liaohuqiu.net/cn/posts/react-native-android-package/
+
+* react-native的第一课
+https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md
+
+* React-Native专题系列文章
+http://www.lcode.org/react-native/
 
 ### React.js
 
@@ -99,7 +108,7 @@ https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
 http://www.ruanyifeng.com/blog/2015/03/react.html
 
 * react.js视频教程
-http://react.nodejs-china.org/t/reactjs/584
+http://react-china.org/t/reactjs/584
 
 ### ES6
 
@@ -143,22 +152,22 @@ http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 
 * React 初探
 http://www.alloyteam.com/2015/04/react-explore/
- 
+
 * React虚拟DOM浅析
 http://www.alloyteam.com/2015/10/react-virtual-analysis-of-the-dom/
- 
+
 * react组件间通信
 http://www.alloyteam.com/2015/07/react-zu-jian-jian-tong-xin/
- 
+
 * React 数据流管理架构之 Redux 介绍
 http://www.alloyteam.com/2015/09/react-redux/
- 
+
 * React服务器端渲染实践小结
 http://www.alloyteam.com/2015/10/8783/
- 
+
 * React Native Android 踩坑之旅
 http://www.alloyteam.com/2015/10/react-native-android-steps-on-tour/
- 
+
 * React Native 之 JSBridge
 http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/
 
@@ -180,11 +189,17 @@ http://www.infoq.com/cn/articles/react-native-web
 * 官方演示App
 https://github.com/facebook/react-native/tree/master/Examples
 
+* **Facebook F8 App**
+https://github.com/fbsamples/f8app
+
 * react-native-dribbble-app
 https://github.com/catalinmiron/react-native-dribbble-app
 
+* **Gank.io客户端**
+https://github.com/Bob1993/React-Native-Gank  
+
 * **Leanote for iOS(云笔记)**
-https://github.com/leanote/leanote-ios
+https://github.com/leanote/leanote-ios-rn
 
 * **ReactNativeRubyChina**
 https://github.com/henter/ReactNativeRubyChina
@@ -294,6 +309,9 @@ https://github.com/benoitvallon/react-native-nw-react-calculator
 * react-native-nba-app
 https://github.com/wwayne/react-native-nba-app
 
+* 开源中国的Git@OSC客户端
+http://git.oschina.net/rplees/react-native-gitosc
+
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 
@@ -326,6 +344,9 @@ https://github.com/jsdf/react-native-htmlview
 
 * **Material React Native (MRN)** - Material Design组件库
 https://github.com/binggg/mrn
+
+* react-native-gitfeed - GitHub客户端(iOS/Android)
+https://github.com/xiekw2010/react-native-gitfeed
 
 ## 工具
 
@@ -378,7 +399,7 @@ http://onevcat.com/2015/03/cross-platform/
 http://blog.devtang.com/blog/2015/02/01/talk-about-react-native/
 
 * 如何评价React-Native?
-http://www.zhihu.com/question/27852694/answer/43990708
+https://www.zhihu.com/question/27852694/answer/43990708
 
 * React Native概述：背景、规划和风险
 http://div.io/topic/938
